@@ -1,0 +1,11 @@
+h1 {
+  text-shadow: 3px 2px red;
+}
+
+body {
+  color: blue;
+}
+
+h1 {
+  color: green;
+}
